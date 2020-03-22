@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/voting/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/voting/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/voting/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/voting/vendor/josegonzalez/dotenv" />
+      <path value="$PROJECT_DIR$/voting/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/voting/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/voting/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/voting/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/voting/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/voting/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/voting/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/voting/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/voting/vendor/aptoma/twig-markdown" />
+      <path value="$PROJECT_DIR$/voting/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/voting/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/voting/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/voting/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/voting/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/voting/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/voting/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/voting/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/voting/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/voting/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/voting/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/voting/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/voting/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/voting/vendor/robmorgan/phinx" />
+      <path value="$PROJECT_DIR$/voting/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/voting/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/voting/vendor/seld/phar-utils" />
+      <path value="$PROJECT_DIR$/voting/vendor/seld/jsonlint" />
+      <path value="$PROJECT_DIR$/voting/vendor/jasny/twig-extensions" />
+      <path value="$PROJECT_DIR$/voting/vendor/umpirsky/twig-php-function" />
+      <path value="$PROJECT_DIR$/voting/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/voting/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/voting/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/voting/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/voting/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/voting/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/voting/vendor/justinrainbow/json-schema" />
+      <path value="$PROJECT_DIR$/voting/vendor/wyrihaximus/twig-view" />
+      <path value="$PROJECT_DIR$/voting/vendor/aura/intl" />
+      <path value="$PROJECT_DIR$/voting/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/voting/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/voting/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/voting/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/voting/vendor/cakephp/debug_kit" />
+      <path value="$PROJECT_DIR$/voting/vendor/cakephp/chronos" />
+      <path value="$PROJECT_DIR$/voting/vendor/cakephp/cakephp-codesniffer" />
+      <path value="$PROJECT_DIR$/voting/vendor/cakephp/cakephp" />
+      <path value="$PROJECT_DIR$/voting/vendor/cakephp/migrations" />
+      <path value="$PROJECT_DIR$/voting/vendor/m1/env" />
+      <path value="$PROJECT_DIR$/voting/vendor/ajgl/breakpoint-twig-extension" />
+      <path value="$PROJECT_DIR$/voting/vendor/cakephp/bake" />
+      <path value="$PROJECT_DIR$/voting/vendor/cakephp/plugin-installer" />
+      <path value="$PROJECT_DIR$/voting/vendor/asm89/twig-cache-extension" />
+      <path value="$PROJECT_DIR$/voting/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/voting/vendor/mobiledetect/mobiledetectlib" />
+      <path value="$PROJECT_DIR$/voting/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/voting/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/voting/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/voting/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/voting/vendor/composer" />
+      <path value="$PROJECT_DIR$/voting/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/voting/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/voting/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/voting/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/voting/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/voting/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/voting/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/voting/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/voting/vendor/zendframework/zend-diactoros" />
+      <path value="$PROJECT_DIR$/voting/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/voting/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/voting/vendor/cakephp-fr/recaptcha" />
+      <path value="$PROJECT_DIR$/voting/vendor/josegonzalez/cakephp-upload" />
+      <path value="$PROJECT_DIR$/voting/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/voting/vendor/google/recaptcha" />
+      <path value="$PROJECT_DIR$/voting/vendor/ivanamat/cakephp3-captcha" />
+    </include_path>
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/voting/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>
