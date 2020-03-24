@@ -10,6 +10,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="eacc81ad-7daa-43dd-8631-0ff110b575c2" name="planethoster" url="http://sitebuild@awogdan.yj.fr">
+        <fileTransfer host="sitebuild@awogdan.yj.fr" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </project>
