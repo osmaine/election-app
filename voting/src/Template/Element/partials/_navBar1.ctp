@@ -15,7 +15,7 @@ echo $this->fetch('script'); ?>
     }
 
     a:hover {
-        background: navy;
+        background: black;
     }
 
     .logo1 :hover {
@@ -41,9 +41,9 @@ echo $this->fetch('script'); ?>
     }
 </style>
 
-<nav class="navbar navbar-expand-lg navbar-dark bg-success" style="font-size: x-large">
+<nav class="navbar navbar-expand-lg navbar-dark" style="font-size: x-large; background: teal">
     <!--<a class="navbar-brand" href="#">WoguedanApp Vote</a>-->
-    <a href="" class="logo1">Wogued@n <span class="lite">Vote</span></a>
+    <a href="" class="logo1">Awogd@n <span class="lite">Vote</span></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault"
             aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>

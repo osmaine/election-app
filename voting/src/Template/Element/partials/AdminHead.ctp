@@ -1,25 +1,24 @@
 <head>
+    <?= $this->Html->charset() ?>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="Awogdan OUSMANE NOMBRE">
+    <meta name="keyword" content="<?php echo __('Vote, Vote en ligne, Vote à distance, électronique') ?>">
+    <!--<link rel="shortcut icon" href="img/favicon.png">-->
+    <title>
 
-    <?php echo $this->Html->charset(); ?>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Application for remote vote">
-    <meta name="author" content="Ousmane NOMBRE">
+        <?= $this->fetch('title') ?>
+    </title>
+    <?= $this->Html->meta('icon') ?>
+    <?= $this->Html->css(['https://fonts.googleapis.com/css?family=Roboto:400,700&subset=latin,cyrillic-ext', 'https://fonts.googleapis.com/icon?family=Material+Icons']) ?>
+    <?= $this->Html->css(['css_nice_admin/bootstrap.css', 'css_nice_admin/waves.css', 'css_nice_admin/animate.css', 'css_nice_admin/morris.css',
+        'css_nice_admin/themes/all-themes.css', 'css_nice_admin/style_for_image.css'
+    ]) ?>
 
-    <title><?php echo __('Accueil') ?></title>
 
-    <!-- Custom fonts for this template
-    <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
---><?= $this->Html->css('css/all.min.css') ?>
-    <?= $this->Html->css('css/all.css') ?>
-    <?= $this->Html->css('bootstrap1.min') ?>
-    <!-- Page level plugin CSS
-    <link href="vendor/datatables/dataTables.bootstrap4.css" rel="stylesheet">
---><?= $this->Html->css('css/dataTables.bootstrap4.css') ?>
-    <!-- Custom styles for this template
-    <link href="css/sb-admin.css" rel="stylesheet">-->
-    <?= $this->Html->css('css/sb-admin.css') ?>
-    <?php echo $this->fetch('css'); ?>
+    <?= $this->fetch('meta') ?>
+    <?= $this->fetch('css') ?>
 
 
 </head>

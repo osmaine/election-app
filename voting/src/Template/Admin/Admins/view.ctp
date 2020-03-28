@@ -20,7 +20,7 @@ echo $this->fetch('css');
         <li class="heading"><?= __('Actions') ?></li>
         <?= $this->Html->link(__('Retour'), ['action' => 'index'], ['class' => 'btn btn-primary']) ?>
         <?php
-        if ($this->request->getSession()->read('Auth.User.id') != $admin->ID) {
+        if ($this->getRequest()->getSession()->read('Auth.User.id') != $admin->ID) {
         } else {
             echo $this->Html->link(__('Modifier mon profile'), ['action' => 'edit', $admin->ID], ['class' => 'btn btn-warning']);
         } ?>

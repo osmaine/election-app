@@ -3,8 +3,8 @@ echo $this->fetch('css'); ?>
 <style>
     .register {
         background: -webkit-linear-gradient(left, #122b40, #09ac70);
-        margin-top: 8%;
-        padding: 4%;
+        margin-top: 12%;
+        padding: 6%;
     }
 </style>
 <div class="logo register"><a href="#"><?= __('Woguedan : Application de vote à distance') ?></a></div>

@@ -40,7 +40,7 @@ return [
      *   CakePHP generates required value based on `HTTP_HOST` environment variable.
      *   However, you can define it manually to optimize performance or if you
      *   are concerned about people manipulating the `Host` header.
-     * - imageBaseUrl - Web path to the public images directory under webroot.
+     * - imageBaseUrl - Web path to the public images_nice_admin directory under webroot.
      * - cssBaseUrl - Web path to the public css directory under webroot.
      * - jsBaseUrl - Web path to the public js directory under webroot.
      * - paths - Configure paths for non class based resources. Supports the
@@ -80,7 +80,7 @@ return [
     ],
 
     /**
-     * Apply timestamps with the last modified time to static assets (js, css, images).
+     * Apply timestamps with the last modified time to static assets (js, css, images_nice_admin).
      * Will append a querystring parameter containing the time the file was modified.
      * This is useful for busting browser caches.
      *
